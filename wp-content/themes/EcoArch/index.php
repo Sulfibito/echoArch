@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-    <section class="hero" >Hero Section</section>
+    <section class="hero Sec" >Hero Section</section>
     <section class="intergation">Integration</section>
     <section class="features">Features</section>
     <section class="pricing">Pricing</section>
